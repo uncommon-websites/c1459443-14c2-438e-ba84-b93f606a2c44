@@ -1,4 +1,4 @@
-<div class="relative bg-black rounded-[3rem] p-3 w-full h-full shadow-2xl ring-1 ring-gray-900/5">
+<div class="relative bg-black rounded-[3rem] p-3 w-full h-full border-2 border-gray-900">
   <!-- Power Button -->
   <div class="absolute -right-[2px] top-24 w-[2px] h-12 bg-gray-800 rounded-r-md"></div>
   <!-- Volume Buttons -->
