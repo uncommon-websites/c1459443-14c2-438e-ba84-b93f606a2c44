@@ -1,18 +1,31 @@
 @import "tailwindcss";
 
 @theme {
-	/* Colors */
-	--color-gray-50: oklch(0.985 0.001 106.423);
-	--color-gray-100: oklch(0.97 0.001 106.424);
-	--color-gray-200: oklch(0.923 0.003 48.717);
-	--color-gray-300: oklch(0.869 0.005 56.366);
-	--color-gray-400: oklch(0.709 0.01 56.259);
-	--color-gray-500: oklch(0.553 0.013 58.071);
-	--color-gray-600: oklch(0.444 0.011 73.639);
-	--color-gray-700: oklch(0.374 0.01 67.558);
-	--color-gray-800: oklch(0.268 0.007 34.298);
-	--color-gray-900: oklch(0.216 0.006 56.043);
-	--color-gray-950: oklch(0.147 0.004 49.25);
+	/* Primary Colors */
+	--color-primary-50: oklch(0.977 0.013 236.62);
+	--color-primary-100: oklch(0.951 0.026 236.824);
+	--color-primary-200: oklch(0.901 0.058 230.902);
+	--color-primary-300: oklch(0.828 0.111 230.318);
+	--color-primary-400: oklch(0.746 0.16 232.661);
+	--color-primary-500: oklch(0.685 0.169 237.323);
+	--color-primary-600: oklch(0.588 0.158 241.966);
+	--color-primary-700: oklch(0.5 0.134 242.749);
+	--color-primary-800: oklch(0.443 0.11 240.79);
+	--color-primary-900: oklch(0.391 0.09 240.876);
+	--color-primary-950: oklch(0.293 0.066 243.157);
+
+	/* Gray Colors */
+	--color-gray-50: oklch(0.985 0 0);
+	--color-gray-100: oklch(0.967 0.001 286.375);
+	--color-gray-200: oklch(0.92 0.004 286.32);
+	--color-gray-300: oklch(0.871 0.006 286.286);
+	--color-gray-400: oklch(0.705 0.015 286.067);
+	--color-gray-500: oklch(0.552 0.016 285.938);
+	--color-gray-600: oklch(0.442 0.017 285.786);
+	--color-gray-700: oklch(0.37 0.013 285.805);
+	--color-gray-800: oklch(0.274 0.006 286.033);
+	--color-gray-900: oklch(0.21 0.006 285.885);
+	--color-gray-950: oklch(0.141 0.005 285.823);
 
 	--font-sans: "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
